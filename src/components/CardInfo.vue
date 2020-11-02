@@ -1,6 +1,6 @@
 <template>
     <v-card
-  color="primary"
+  color="light"
 
   class="mx-auto"
   max-width="344"
